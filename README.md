@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola everybody! My name is Mario Catzin
+
+### My focus
+I primarily like to focus on front-end or full-stack development. My projects have been reflections of my interest and passions.
 
 <!--
 **mcatzin/mcatzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
